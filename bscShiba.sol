@@ -8,7 +8,7 @@
    
    Shiba was launched on the eth network with 10 eth starting liquidity at a price of about $300 per eth. 
    Shiba will do the same on BSC but with a higher starting BNB price which means more liquidity! 
-   Shiba will also implement a passive yield mechanic where 1% of each transaction is distributed to holders,
+   Shiba will also implement a passive yield mechanic where 5% of each transaction is distributed to holders,
    making for an upgraded meme token with lower network fees!
    
    website: https://bscshiba.com/
